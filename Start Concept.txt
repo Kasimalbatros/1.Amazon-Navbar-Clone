@@ -1,0 +1,16 @@
+Buidling Amazon clone for beginners by Apna College.
+
+steps
+
+1.Boiler plate
+2.link with Css styles.css
+3.copy link for font awesome in cdnjs.com and paste inside head section .so that you can simply retrieve icons.
+(Content delivery network:- it means it connects you nearer server so that accessing image firstly.)
+4.You need to create 6 boxes in navbar namely
+	1.amazon logo box
+	2.Deliver to box
+	3.nav-search box
+	4.sign-in
+	5.returns
+	6.Cart
+first column Amazon navbar clone completed.
